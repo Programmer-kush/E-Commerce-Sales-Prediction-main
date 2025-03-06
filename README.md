@@ -104,6 +104,7 @@ SOFTWARE.
 
 Some Images from This Project
 
+![Table](Table.png)
 ![Graph](Graph.jpg)
 ![Histogram](Histogram.png)
 
