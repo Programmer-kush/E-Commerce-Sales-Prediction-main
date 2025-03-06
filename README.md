@@ -14,4 +14,4 @@ For this project, I used Jupiter Notebook (Anaconda Navigator) User Interface wh
 (5) Based on parameter RMSE identify the best model
 (6) Predicting the Sales
 
-![Graph](images/image.png)
+![Graph](images/Graph.png)
